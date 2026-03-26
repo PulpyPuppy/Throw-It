@@ -1,11 +1,7 @@
-[gd_scene format=3 uid="uid://1i2vye5kknrq"]
+[gd_scene format=3 uid="uid://bx0gdvw25eyuu"]
 
-[node name="Main" type="XROrigin3D" unique_id=722448108]
+[ext_resource type="PackedScene" uid="uid://1i2vye5kknrq" path="res://scenes/Player.tscn" id="1_elqb8"]
 
-[node name="XRCamera3D" type="XRCamera3D" parent="." unique_id=1251541359]
+[node name="Main" type="Node3D" unique_id=1021488292]
 
-[node name="XRControllerLeft" type="XRController3D" parent="." unique_id=807861612]
-tracker = &"left_hand"
-
-[node name="XRControllerRight" type="XRController3D" parent="." unique_id=157944914]
-tracker = &"right_hand"
+[node name="Player" parent="." unique_id=722448108 instance=ExtResource("1_elqb8")]

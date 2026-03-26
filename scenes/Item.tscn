@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://7luj1trk31bq"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_hm0qy"]
+radius = 0.05
+height = 0.2
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_j3wwg"]
+radius = 0.05
+height = 0.2
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_bx46p"]
+radius = 0.1
+height = 0.3
+
+[node name="Item" type="RigidBody3D" unique_id=941519054]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=495229123]
+mesh = SubResource("CapsuleMesh_hm0qy")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=2009486892]
+shape = SubResource("CapsuleShape3D_j3wwg")
+
+[node name="Area3D" type="Area3D" parent="." unique_id=277453947]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D" unique_id=1000515840]
+shape = SubResource("CapsuleShape3D_bx46p")
