@@ -1,5 +1,7 @@
 [gd_scene format=3 uid="uid://7luj1trk31bq"]
 
+[ext_resource type="Script" uid="uid://c5av3sx7gwlwh" path="res://scripts/item.gd" id="1_j3wwg"]
+
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_hm0qy"]
 radius = 0.05
 height = 0.2
@@ -12,7 +14,9 @@ height = 0.2
 radius = 0.1
 height = 0.3
 
-[node name="Item" type="RigidBody3D" unique_id=941519054]
+[node name="Item" type="RigidBody3D" unique_id=1298174136]
+script = ExtResource("1_j3wwg")
+metadata/_custom_type_script = "uid://c5av3sx7gwlwh"
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=495229123]
 mesh = SubResource("CapsuleMesh_hm0qy")
