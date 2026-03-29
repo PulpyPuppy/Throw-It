@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw4mx15svyq5"
 path.s3tc="res://.godot/imported/office_stamp_11.png-3a0023af97d0e12934663f8b659acac6.s3tc.ctex"
+path.etc2="res://.godot/imported/office_stamp_11.png-3a0023af97d0e12934663f8b659acac6.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://graphics/office_stamp_11.png"
-dest_files=["res://.godot/imported/office_stamp_11.png-3a0023af97d0e12934663f8b659acac6.s3tc.ctex"]
+dest_files=["res://.godot/imported/office_stamp_11.png-3a0023af97d0e12934663f8b659acac6.s3tc.ctex", "res://.godot/imported/office_stamp_11.png-3a0023af97d0e12934663f8b659acac6.etc2.ctex"]
 
 [params]
 

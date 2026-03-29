@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpkj6eyr7bss7"
 path.s3tc="res://.godot/imported/stapler_1.png-817f7d8f0062938dbb5826f71e3a5067.s3tc.ctex"
+path.etc2="res://.godot/imported/stapler_1.png-817f7d8f0062938dbb5826f71e3a5067.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://graphics/stapler_1.png"
-dest_files=["res://.godot/imported/stapler_1.png-817f7d8f0062938dbb5826f71e3a5067.s3tc.ctex"]
+dest_files=["res://.godot/imported/stapler_1.png-817f7d8f0062938dbb5826f71e3a5067.s3tc.ctex", "res://.godot/imported/stapler_1.png-817f7d8f0062938dbb5826f71e3a5067.etc2.ctex"]
 
 [params]
 

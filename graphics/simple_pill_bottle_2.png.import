@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf22tt422i21j"
 path.s3tc="res://.godot/imported/simple_pill_bottle_2.png-05d9967dfb328541cf606fc67bc9ba3e.s3tc.ctex"
+path.etc2="res://.godot/imported/simple_pill_bottle_2.png-05d9967dfb328541cf606fc67bc9ba3e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://graphics/simple_pill_bottle_2.png"
-dest_files=["res://.godot/imported/simple_pill_bottle_2.png-05d9967dfb328541cf606fc67bc9ba3e.s3tc.ctex"]
+dest_files=["res://.godot/imported/simple_pill_bottle_2.png-05d9967dfb328541cf606fc67bc9ba3e.s3tc.ctex", "res://.godot/imported/simple_pill_bottle_2.png-05d9967dfb328541cf606fc67bc9ba3e.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgq0e1hjtxhv1"
 path.s3tc="res://.godot/imported/wildfire-spreads-near-los-angeles-600nw-2572852585.webp-8b367ba2955a6be08c3c9c576ada25a5.s3tc.ctex"
+path.etc2="res://.godot/imported/wildfire-spreads-near-los-angeles-600nw-2572852585.webp-8b367ba2955a6be08c3c9c576ada25a5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://graphics/wildfire-spreads-near-los-angeles-600nw-2572852585.webp"
-dest_files=["res://.godot/imported/wildfire-spreads-near-los-angeles-600nw-2572852585.webp-8b367ba2955a6be08c3c9c576ada25a5.s3tc.ctex"]
+dest_files=["res://.godot/imported/wildfire-spreads-near-los-angeles-600nw-2572852585.webp-8b367ba2955a6be08c3c9c576ada25a5.s3tc.ctex", "res://.godot/imported/wildfire-spreads-near-los-angeles-600nw-2572852585.webp-8b367ba2955a6be08c3c9c576ada25a5.etc2.ctex"]
 
 [params]
 

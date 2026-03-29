@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddwn8i6rmqexg"
 path.s3tc="res://.godot/imported/bulldog_smoking_pipe_0.png-22fc4f674859e58d98a02176c078e276.s3tc.ctex"
+path.etc2="res://.godot/imported/bulldog_smoking_pipe_0.png-22fc4f674859e58d98a02176c078e276.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://graphics/bulldog_smoking_pipe_0.png"
-dest_files=["res://.godot/imported/bulldog_smoking_pipe_0.png-22fc4f674859e58d98a02176c078e276.s3tc.ctex"]
+dest_files=["res://.godot/imported/bulldog_smoking_pipe_0.png-22fc4f674859e58d98a02176c078e276.s3tc.ctex", "res://.godot/imported/bulldog_smoking_pipe_0.png-22fc4f674859e58d98a02176c078e276.etc2.ctex"]
 
 [params]
 
