@@ -31,6 +31,7 @@ throw → score** (k. without scores yet).
 ## Screenshots
 
 ![VR Scene Overview](/screenshots/photo_2026-03-29_10-27-59.jpg)
+(If It can not be opened, just go to screenshots folder)
 
 ---
 
